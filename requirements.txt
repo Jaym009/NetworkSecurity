@@ -8,5 +8,7 @@ flask
 pymongo
 pymongo[srv]
 certifi
+dill
+PyYAML
 
 # -e .
